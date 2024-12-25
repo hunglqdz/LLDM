@@ -1,3 +1,5 @@
+// run this file in Ubuntu
+
 #include<sys/types.h>
 #include<stdio.h>
 #include<unistd.h>
